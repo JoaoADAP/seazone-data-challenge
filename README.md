@@ -25,7 +25,7 @@ Os dados utilizados neste projeto foram extraídos de dois arquivos CSV fornecid
 
 ## Resultados
 
-Para uma análise mais aprofundada e a visualização completa dos resultados, confira o [PDF do Relatório Completo](https://drive.google.com/drive/my-drive).
+Para uma análise mais aprofundada e a visualização completa dos resultados, confira o [PDF do Relatório Completo](https://drive.google.com/file/d/1_fQ44yz6vP1U9Hk3Dc0wXY7keTgc28wX/view?usp=sharing).
 
 ### 1. Ordenação das Cidades por Número de Listings
 
